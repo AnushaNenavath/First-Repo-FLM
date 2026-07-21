@@ -7,11 +7,12 @@ int a = 10;
 int b = 20;
  
 int c   = a+b;
-
+int d  = a-b;
 
 public static void main(String[]args){
 
-System .out.println("Sume of the numbers are :"+c)
+System .out.println("Sum of the numbers are :"+c)
+System.out.println("sub of the numbers are: " d);
 
 }
 }
