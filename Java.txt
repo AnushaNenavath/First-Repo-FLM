@@ -13,6 +13,8 @@ public static void main(String[]args){
 
 System .out.println("Sum of the numbers are :"+c)
 System.out.println("sub of the numbers are: " d);
+System.out.println("good morining");
+
 
 }
 }
